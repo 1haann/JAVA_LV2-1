@@ -20,7 +20,7 @@ public class MemberV2 {
 
     @Override
     public String toString() {
-        return "MemberV1{" +
+        return "MemberV2{" +
                 "name='" + name + '\'' +
                 ", address=" + address +
                 '}';
